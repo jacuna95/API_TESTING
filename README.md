@@ -14,7 +14,7 @@
   
 ## Correr las pruebas
 
-Para correr el suite de pruebas ejecute el siguiente comando:
+Para correr el suite de pruebas clone este repositorio y ejecute el siguiente comando:
 
 ```bash
   mvn clean test
