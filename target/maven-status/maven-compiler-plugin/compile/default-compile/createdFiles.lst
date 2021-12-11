@@ -1,0 +1,12 @@
+model_POJO\Comment.class
+Helpers\LoginHelper.class
+Helpers\DataHelper.class
+Helpers\PostHelper.class
+specifications\RequestSpecs.class
+model_POJO\Article.class
+model_POJO\userRegister.class
+Helpers\CommentHelper.class
+model_POJO\Post.class
+model_POJO\WrongComment.class
+specifications\ResponseSpecs.class
+model_POJO\WrongPost.class
